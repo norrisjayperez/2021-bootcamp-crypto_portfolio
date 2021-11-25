@@ -1,2 +1,2 @@
-# 2021-bootcamp-crypto_portfolio
+# 2021 bootcamp
 Bootcamp 2021: Crypto Currency Portfolio Web App
